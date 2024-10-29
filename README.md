@@ -24,7 +24,8 @@ https://drive.google.com/file/d/1nMSQe499lprZeTQ5FJEj_6PXoIQaBqMt/view?usp=shari
 ![Screenshot (1019)](https://github.com/user-attachments/assets/d2dec6b0-bf2a-4f5e-8bc6-5f98ba1dae5d)
 
 **Add Person**
-
+![Screenshot (1026)](https://github.com/user-attachments/assets/f736c606-b640-43c6-95bb-b56684129a9b)
+![Screenshot (1028)](https://github.com/user-attachments/assets/a26206ee-5af7-4728-ba5a-d4983290d09d)
 
 **Edit Entry**
 
